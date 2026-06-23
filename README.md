@@ -2,7 +2,7 @@
 
 CMRCA (Contact-based Metaparticle Reconstruction and Characterization Algorithm) is a MATLAB post-processing tool for DEM simulations involving bonded particles.
 
-The algorithm identifies metaparticles from particle and contact data, reconstructs their approximate geometry, and exports particle- and metaparticle-level information for further analysis.
+The algorithm identifies metaparticles from particle and contact data, reconstructs their geometry, and exports particle- and metaparticle-level information for further analysis.
 
 ## Description
 
